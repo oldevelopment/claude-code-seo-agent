@@ -1,0 +1,8 @@
+.env
+credentials.json
+client_secret_*.json
+token.pickle
+.venv/
+venv/
+__pycache__/
+*.pyc

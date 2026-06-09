@@ -1,0 +1,42 @@
+{
+  "gym leggings": [
+    {"domain": "nike.com", "title": "Gym Leggings & Tights. Nike.com", "url": "https://www.nike.com/w/leggings-tights", "rank": 1},
+    {"domain": "lululemon.com", "title": "Women's Leggings | lululemon", "url": "https://shop.lululemon.com/c/women-leggings", "rank": 2},
+    {"domain": "aloyoga.com", "title": "Workout Leggings | Alo Yoga", "url": "https://www.aloyoga.com/collections/leggings", "rank": 3}
+  ],
+  "workout clothes": [
+    {"domain": "nike.com", "title": "Workout Clothes & Activewear. Nike.com", "url": "https://www.nike.com/w/training-gym", "rank": 1},
+    {"domain": "amazon.com", "title": "Amazon.com: Workout Clothes for Women", "url": "https://www.amazon.com/workout-clothes", "rank": 2},
+    {"domain": "verywellfit.com", "title": "The 9 Best Workout Clothes of 2026, Tested by Editors", "url": "https://www.verywellfit.com/best-workout-clothes", "rank": 3}
+  ],
+  "squat proof leggings": [
+    {"domain": "reddit.com", "title": "Best squat proof leggings? : r/xxfitness", "url": "https://www.reddit.com/r/xxfitness/comments/abc123", "rank": 1},
+    {"domain": "thesportsedit.com", "title": "10 Best Squat Proof Leggings, Tried & Tested (2026)", "url": "https://www.thesportsedit.com/blogs/edit/squat-proof-leggings", "rank": 2},
+    {"domain": "activewearblog.com", "title": "Squat Proof Leggings: Our Honest Review", "url": "https://activewearblog.com/squat-proof-leggings-review", "rank": 3}
+  ],
+  "gym shorts men": [
+    {"domain": "nike.com", "title": "Men's Gym Shorts. Nike.com", "url": "https://www.nike.com/w/mens-shorts", "rank": 1},
+    {"domain": "myprotein.com", "title": "Men's Gym Shorts | Myprotein", "url": "https://www.myprotein.com/clothing/mens/shorts", "rank": 2},
+    {"domain": "reddit.com", "title": "Best gym shorts for men? : r/fitness", "url": "https://www.reddit.com/r/fitness/comments/def456", "rank": 3}
+  ],
+  "seamless leggings": [
+    {"domain": "aloyoga.com", "title": "Seamless Leggings | Alo Yoga", "url": "https://www.aloyoga.com/collections/seamless", "rank": 1},
+    {"domain": "buffbunny.com", "title": "Seamless Collection", "url": "https://buffbunnycollection.com/collections/seamless", "rank": 2},
+    {"domain": "styleblog.com", "title": "Seamless Leggings Worth Buying", "url": "https://styleblog.com/seamless-leggings", "rank": 3}
+  ],
+  "oversized gym t shirt": [
+    {"domain": "asos.com", "title": "Oversized Gym T-Shirts | ASOS", "url": "https://www.asos.com/men/activewear/gym-t-shirts", "rank": 1},
+    {"domain": "reddit.com", "title": "Best oversized gym t-shirts? : r/GYM", "url": "https://www.reddit.com/r/GYM/comments/ghi789", "rank": 2},
+    {"domain": "fitfashion.com", "title": "The Oversized Gym Tee Trend, Explained", "url": "https://fitfashion.com/oversized-gym-tee", "rank": 3}
+  ],
+  "gym wear women": [
+    {"domain": "nike.com", "title": "Women's Gym Wear & Activewear. Nike.com", "url": "https://www.nike.com/w/womens-training", "rank": 1},
+    {"domain": "lululemon.com", "title": "Women's Workout Clothes | lululemon", "url": "https://shop.lululemon.com/c/women", "rank": 2},
+    {"domain": "prettylittlething.com", "title": "Women's Gym Wear | PrettyLittleThing", "url": "https://www.prettylittlething.com/activewear", "rank": 3}
+  ],
+  "best leggings for squats": [
+    {"domain": "womenshealthmag.com", "title": "15 Best Squat-Proof Leggings, Per Trainers (2026)", "url": "https://www.womenshealthmag.com/best-squat-proof-leggings", "rank": 1},
+    {"domain": "self.com", "title": "The Best Leggings for Squats, Tested (2026)", "url": "https://www.self.com/gallery/best-leggings-for-squats", "rank": 2},
+    {"domain": "gymgirlblog.com", "title": "Leggings I Reach For on Heavy Squat Days", "url": "https://gymgirlblog.com/squat-day-leggings", "rank": 3}
+  ]
+}

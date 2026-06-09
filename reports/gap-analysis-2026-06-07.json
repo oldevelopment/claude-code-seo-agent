@@ -1,0 +1,112 @@
+{
+  "date": "2026-06-07",
+  "site_url": "sc-domain:gymshark.com",
+  "total_gap_keywords": 13,
+  "top_opportunity": {
+    "keyword": "gym leggings",
+    "impressions": 14200,
+    "position": 8.2,
+    "clicks": 880,
+    "ctr": 6.2,
+    "rec_type": "NEEDS_HUB",
+    "recommendation": "Add a hub page. Short-tail keyword suggests you're ranking for multiple variations without a central article consolidating authority. One hub page can push all variations higher."
+  },
+  "keywords": [
+    {
+      "keyword": "gym leggings",
+      "impressions": 14200,
+      "position": 8.2,
+      "clicks": 880,
+      "ctr": 6.2,
+      "rec_type": "NEEDS_HUB",
+      "recommendation": "Add a hub page. Short-tail keyword suggests you're ranking for multiple variations without a central article consolidating authority. One hub page can push all variations higher."
+    },
+    {
+      "keyword": "workout clothes",
+      "impressions": 9800,
+      "position": 11.5,
+      "clicks": 410,
+      "ctr": 4.2,
+      "rec_type": "NEEDS_HUB",
+      "recommendation": "Add a hub page. Short-tail keyword suggests you're ranking for multiple variations without a central article consolidating authority. One hub page can push all variations higher."
+    },
+    {
+      "keyword": "squat proof leggings",
+      "impressions": 7300,
+      "position": 6.4,
+      "clicks": 562,
+      "ctr": 7.7,
+      "rec_type": "WEAK_TITLE",
+      "recommendation": "Improve content depth. Review the top 3 ranking pages and identify what they cover that you don't. Adding a comparison table or FAQ section often pushes mid-range positions to top 5."
+    },
+    {
+      "keyword": "gym shorts men",
+      "impressions": 6900,
+      "position": 9.1,
+      "clicks": 469,
+      "ctr": 6.8,
+      "rec_type": "WEAK_TITLE",
+      "recommendation": "Improve content depth. Review the top 3 ranking pages and identify what they cover that you don't. Adding a comparison table or FAQ section often pushes mid-range positions to top 5."
+    },
+    {
+      "keyword": "seamless leggings",
+      "impressions": 5400,
+      "position": 12.8,
+      "clicks": 178,
+      "ctr": 3.3,
+      "rec_type": "NO_INTERNAL_LINKS",
+      "recommendation": "Add internal links. High impressions but deep ranking suggests the page isn't getting enough internal authority. Add 3\u20135 links from your highest-traffic posts."
+    },
+    {
+      "keyword": "oversized gym t shirt",
+      "impressions": 4800,
+      "position": 7.7,
+      "clicks": 360,
+      "ctr": 7.5,
+      "rec_type": "WEAK_TITLE",
+      "recommendation": "Improve content depth. Review the top 3 ranking pages and identify what they cover that you don't. Adding a comparison table or FAQ section often pushes mid-range positions to top 5."
+    },
+    {
+      "keyword": "gym wear women",
+      "impressions": 4200,
+      "position": 13.3,
+      "clicks": 130,
+      "ctr": 3.1,
+      "rec_type": "NO_INTERNAL_LINKS",
+      "recommendation": "Add internal links. High impressions but deep ranking suggests the page isn't getting enough internal authority. Add 3\u20135 links from your highest-traffic posts."
+    },
+    {
+      "keyword": "best leggings for squats",
+      "impressions": 3600,
+      "position": 5.9,
+      "clicks": 320,
+      "ctr": 8.9,
+      "rec_type": "WEAK_TITLE",
+      "recommendation": "Improve content depth. Review the top 3 ranking pages and identify what they cover that you don't. Adding a comparison table or FAQ section often pushes mid-range positions to top 5."
+    },
+    {
+      "keyword": "mens gym wear",
+      "impressions": 3100,
+      "position": 10.4,
+      "clicks": 149,
+      "ctr": 4.8,
+      "rec_type": "WEAK_TITLE",
+      "recommendation": "Improve content depth. Review the top 3 ranking pages and identify what they cover that you don't. Adding a comparison table or FAQ section often pushes mid-range positions to top 5."
+    },
+    {
+      "keyword": "sustainable activewear",
+      "impressions": 2400,
+      "position": 15.6,
+      "clicks": 60,
+      "ctr": 2.5,
+      "rec_type": "NO_INTERNAL_LINKS",
+      "recommendation": "Add internal links. High impressions but deep ranking suggests the page isn't getting enough internal authority. Add 3\u20135 links from your highest-traffic posts."
+    }
+  ],
+  "kpis": {
+    "total_impressions": 166920,
+    "gap_zone_count": 13,
+    "avg_position": 10.5,
+    "total_clicks": 58171
+  }
+}

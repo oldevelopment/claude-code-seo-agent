@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-07",
+  "articles": [
+    {
+      "priority": "P1",
+      "title": "Best Leggings For Squats: An Honest Comparison (2026)",
+      "keyword": "best leggings for squats",
+      "estimated_volume": 3600,
+      "current_position": 5.9,
+      "intent": "Commercial Investigation",
+      "brief": "Neutral comparison post with a structured table above the fold \u2014 Google AI Overview pulls from tables, and this keyword has commercial intent buyers ready to act."
+    },
+    {
+      "priority": "P1",
+      "title": "Squat Proof Leggings: The Complete Guide (2026)",
+      "keyword": "squat proof leggings",
+      "estimated_volume": 7300,
+      "current_position": 6.4,
+      "intent": "Informational",
+      "brief": "Definitive resource page targeting this keyword cluster \u2014 build topical authority by covering the full topic, then link out to supporting how-to posts."
+    },
+    {
+      "priority": "P2",
+      "title": "Oversized Gym T Shirt: The Complete Guide (2026)",
+      "keyword": "oversized gym t shirt",
+      "estimated_volume": 4800,
+      "current_position": 7.7,
+      "intent": "Informational",
+      "brief": "Definitive resource page targeting this keyword cluster \u2014 build topical authority by covering the full topic, then link out to supporting how-to posts."
+    },
+    {
+      "priority": "P2",
+      "title": "Gym Shorts Men: The Complete Guide (2026)",
+      "keyword": "gym shorts men",
+      "estimated_volume": 6900,
+      "current_position": 9.1,
+      "intent": "Informational",
+      "brief": "Definitive resource page targeting this keyword cluster \u2014 build topical authority by covering the full topic, then link out to supporting how-to posts."
+    }
+  ]
+}
